@@ -1,2 +1,2 @@
 # UNet-Implementation-from-Scratch
-Implementing the UNet architecture for semantic segmentation from scratch using PyTorch
+This repository contains a PyTorch implementation of the U-Net architecture for semantic segmentation, inspired by the research paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" by Olaf Ronneberger, Philipp Fischer, and Thomas Brox. The model consists of an encoder-decoder structure with skip connections, enabling precise segmentation by combining low-level spatial information with high-level contextual details.
