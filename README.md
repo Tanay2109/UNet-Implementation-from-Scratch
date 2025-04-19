@@ -23,6 +23,9 @@ U-Net is a fully convolutional neural network that consists of:
 
 Applications: Biomedical image segmentation, Satellite image analysis, Autonomous driving (road segmentation), Agricultural field mapping
 
+![image](https://github.com/user-attachments/assets/f54ac8b8-7edb-437b-a7e9-ab53e52d3b15)
+
+
 # 🔧 Main Functions Used
 
 - DoubleConv() – Two consecutive convolutional layers with BatchNorm and ReLU.
